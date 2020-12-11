@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kakukogou.github.io/categories/</loc>
+    <loc>https://kakukogou.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-12-12T00:52:27+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://kakukogou.github.io/</loc>
+    <lastmod>2020-12-12T00:52:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kakukogou.github.io/posts/</loc>
+    <lastmod>2020-12-12T00:52:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kakukogou.github.io/categories/</loc>
   </url>
   
   <url>
